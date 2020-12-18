@@ -1,9 +1,10 @@
 import React from 'react'
+import Error from './Pages/Error'
 
 export default function App() {
   return (
     <div>
-      <h2>404 Page</h2>
+      <Error/>
     </div>
   )
 }
