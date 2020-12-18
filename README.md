@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">404 NOT FOUND PAGE</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/femakin/404-page">
       Solution
     </a>
     <span> | </span>
@@ -36,13 +36,14 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://res.cloudinary.com/femakin/image/upload/v1608320195/404-DESTOP_ujvmmf.jpg)
+![screenshot](https://res.cloudinary.com/femakin/image/upload/v1608320301/404-MOBILE_rzut8e.jpg)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
+- Where can I see your demo? A simple responsive error 404 page.
+- What was your experience? Coding the responsive part was a bit challenging but with the help of flexbox, I was able to complete the task.
+- What have you learned/improved? Improved on my Flexbox 
 - Your wisdom? :)
 
 ### Built With
@@ -50,8 +51,8 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [CSS]
+
 
 ## Features
 
@@ -70,6 +71,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [femiakinyemi.netlify.app](https://{femiakinyemi.netlify.app})
+- GitHub [@femakin](https://{github.com/femakin})
+- Twitter [@akinyemi_t](https://{twitter.com/akinyemi_t})
