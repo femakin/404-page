@@ -71,6 +71,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [femiakinyemi.netlify.app](https://{femiakinyemi.netlify.app})
-- GitHub [@femakin](https://{github.com/femakin})
-- Twitter [@akinyemi_t](https://{twitter.com/akinyemi_t})
+- Website [femiakinyemi.netlify.app](https://femiakinyemi.netlify.app)
+- GitHub [@femakin](https://github.com/femakin)
+- Twitter [@akinyemi_t](https://twitter.com/akinyemi_t)
